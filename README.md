@@ -1,9 +1,9 @@
-# Dairy breeds of cows. The productivity  of dairy cattle
+# <span style="color:green; font-weight:900;">Dairy breeds of cows. The productivity  of dairy cattle</span>
 
 
 #### Dairy products such as milk, yoghurt, cheese, butter, sour cream – are endless. These products occupy a huge value in the human diet, appear on our table thanks to the cattle. the Dairy cows is used not only for milk, but very often they are bred for meat production, despite the relatively small yield of meat from the carcass.
 
-<img src="./dairy-cattle-1.jpg" alt="Dairy breed of cattle">
+<img  src="./dairy-cattle-1.jpg" alt="Dairy breed of cattle">
 
 # Dairy breed of cattle. Features
 
@@ -13,9 +13,9 @@
 
 ## Comparison of productivity of breeds of dairy
 
-#### All breeds dairy cows have their advantages and, of course, not without drawbacks. For example, in Belarus it is recommended to grow local, well adapted varieties or crossbred animals. Purebred European breeds show good productivity in our climate. To decide what breed of cows make on your farmstead, you can take as a basis the following information:
+#### All breeds dairy cows have their  advantages and, of course, not without drawbacks. For example, in Belarus it is recommended to grow local, well adapted varieties or crossbred animals. Purebred European breeds show good productivity in our climate. To decide what breed of cows make on your farmstead, you can take as a basis the following information:
 
-| name of the breed of cattle | fat (%) | protein Content (%) | Average annual milk yield (MT) |
+| <span style="color:red;">name of the breed of cattle</span> | <span style="color:orange;">fat (%) </span> | <span style="color:blue;">protein Content (%) </span> | <span style="color:violet;">Average annual milk yield (MT) </span>  |
 | --------------- | --------------- | --------------- | --------------- |
 | Ayrshire | 4,28 | 3,44 | 8,57 |
 | Dutch | 3,5~4 | 3~3,5 | 4,5 |
